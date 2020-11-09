@@ -1,0 +1,10 @@
+{
+  "name": "JSONParser",
+  "label": "JSONParser",
+  "description": "Provides actions for JSON parsing.",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}
